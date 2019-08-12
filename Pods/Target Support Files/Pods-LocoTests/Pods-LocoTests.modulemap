@@ -1,0 +1,6 @@
+framework module Pods_LocoTests {
+  umbrella header "Pods-LocoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
