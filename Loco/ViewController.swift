@@ -5,7 +5,6 @@
 //  Created by 赤堀雅司 on 11/8/19.
 //  Copyright © 2019 赤堀雅司. All rights reserved.
 //
-
 import UIKit
 import GoogleMaps
 import Alamofire
