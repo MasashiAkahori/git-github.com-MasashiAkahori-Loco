@@ -5,7 +5,7 @@
 //  Created by 赤堀雅司 on 11/8/19.
 //  Copyright © 2019 赤堀雅司. All rights reserved.
 //
-
+//this is my first app with swift!!
 import UIKit
 import GoogleMaps
 
